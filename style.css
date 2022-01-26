@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(174, 33, 153);
+    
+}
+.heading {
+    font-size: 18px;
+    letter-spacing: 10px;
+    border-radius: 17px;
+}
+#camera, #result {
+    border: 2px dashed white;
+    width: 350px;
+    height: 300px;
+}
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+#l{
+    border-radius: 17px;
+    background-color: white;
+    color:limegreen;
+}
+#q{
+    color:white;
+}
+#spans{
+    letter-spacing: 10px;
+}
